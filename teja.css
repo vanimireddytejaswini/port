@@ -1,0 +1,13 @@
+div{
+    background-color: blue;
+    text-align: center;
+    padding: 2%;
+}
+a{
+
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    background-color: blueviolet;
+}
